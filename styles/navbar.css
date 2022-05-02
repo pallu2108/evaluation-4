@@ -1,0 +1,38 @@
+#search_bar{
+    width: 80%;
+    margin: 10px auto;
+  }
+
+  #search_input{
+    width: 80%;
+    height: 30px;
+    border: 2px solid teal;
+    border-radius: 15px;
+    /* padding: 20px; */
+    font-size: medium;
+    padding-left: 20px;
+  }
+  #navbar{
+    display: flex;
+    background-color: blanchedalmond;
+    padding-left: 20px;
+    height: 80px;
+    /* margin-top: 10px; */
+    padding-top: 10px;
+  }
+ 
+  #sidebar > h3 {
+         height: 25px;
+         width: 120px;
+         /* border: 1px solid teal; */
+         background-color: teal;
+  } 
+  #query {
+    display: flex;
+  }
+  #sidebar {
+    background-color: blanchedalmond;
+    height: 680px;
+    width: 160px;
+    padding-left: 20px;
+  }
